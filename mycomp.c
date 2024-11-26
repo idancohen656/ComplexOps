@@ -9,7 +9,7 @@
 			goto start;\
 			}
 
-/*typedef enum {COMMA, OPERATION, OPERATOR, START}status;*/
+
 
 
 int is_number(char *str) 
